@@ -1,6 +1,6 @@
 import os 
 import glob
-import vigra
+#import vigra
 import numpy as np
 import scipy.io
 from skimage.transform import resize
