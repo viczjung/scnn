@@ -3,6 +3,8 @@
 # Usage:
 # ./experiments/scripts/_train_net.sh GPU_ID
 
+echo "Start"
+
 export PYTHONUNBUFFERED="True"
 
 # Parameters
